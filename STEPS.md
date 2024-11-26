@@ -6,3 +6,6 @@ Created STEPS.md
 
 Commit 2:
 Change STEPS.md
+
+Commit 10:
+Change STEPS.md

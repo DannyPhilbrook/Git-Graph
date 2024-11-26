@@ -32,4 +32,8 @@ Fixed Image (Again)
 Commit 11:
 Merge bug-fix and bug-fix-experimental
 
+Commit 12: 
+Change STEPS.md
+
+
 

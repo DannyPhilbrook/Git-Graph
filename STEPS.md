@@ -15,3 +15,6 @@ STEPS changed
 
 Commit 5: 
 Merged Main and bug-fix
+
+Commit 6:
+Change STEPS.md
